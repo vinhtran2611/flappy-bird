@@ -1,1 +1,1 @@
-# flappy game with pygame
+# Flappy game with pygame
